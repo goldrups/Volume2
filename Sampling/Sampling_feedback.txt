@@ -1,0 +1,111 @@
+11/20/21 17:58
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+You are only supposed to run for 20 flips, not 1000. Everything else looks correct though. 
+Score += 9
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+
+Comments:
+	Nice!
+
+-------------------------------------------------------------------------------
+
+11/27/21 23:10
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+You are only supposed to run for 20 flips, not 1000. Everything else looks correct though.
+Score += 9
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+11/30/21 14:31
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+You are only supposed to run for 20 flips, not 1000. Everything else looks correct though.
+Score += 9
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+12/02/21 12:30
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 9
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

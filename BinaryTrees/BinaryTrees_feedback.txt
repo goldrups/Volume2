@@ -1,0 +1,74 @@
+10/11/21 18:59
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (25 points):
+BST.remove() failed to raise a ValueError (got a NotImplementedError instead)
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for BST.remove()
+Score += 0
+
+Total score: 15/50 = 30.0%
+
+-------------------------------------------------------------------------------
+
+10/18/21 21:27
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (25 points):
+	AttributeError while removing 10: 'NoneType' object has no attribute 'left'
+	Previous tree:
+[10]
+Score += 23
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 43/50 = 86.0%
+
+-------------------------------------------------------------------------------
+
+10/21/21 09:31
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (25 points):
+Score += 25
+
+Problem 4 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Nice!
+
+-------------------------------------------------------------------------------
+

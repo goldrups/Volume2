@@ -1,0 +1,107 @@
+01/31/22 19:14
+
+ModuleNotFoundError while loading 'oneD_optimization.py': No module named 'autograd'
+
+-------------------------------------------------------------------------------
+
+01/31/22 19:20
+
+Problem 1 (10 points):
+golden_section() failed (f'(x) != 0)
+	Correct response: 0
+	Student response: -0.012978784791214113
+golden_section() failed (incorrect minimum)
+	Correct response: 0
+	Student response: -0.006489392395607057
+golden_section() failed (f'(x) != 0)
+	Correct response: 0
+	Student response: -0.014351816212311519
+golden_section() failed (incorrect minimum)
+	Correct response: 1.3862943611198906
+	Student response: 1.3826999549217125
+golden_section() failed (f'(x) != 0)
+	Correct response: 0
+	Student response: -0.008328223380466016
+golden_section() failed (incorrect minimum)
+	Correct response: 1.618033988749895
+	Student response: 1.6143032695902557
+Score += 0
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+Score += 15
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+02/07/22 19:05
+
+Problem 1 (10 points):
+golden_section() failed (f'(x) != 0)
+	Correct response: 0
+	Student response: -0.012978784791214113
+golden_section() failed (incorrect minimum)
+	Correct response: 0
+	Student response: -0.006489392395607057
+golden_section() failed (f'(x) != 0)
+	Correct response: 0
+	Student response: -0.014351816212311519
+golden_section() failed (incorrect minimum)
+	Correct response: 1.3862943611198906
+	Student response: 1.3826999549217125
+golden_section() failed (f'(x) != 0)
+	Correct response: 0
+	Student response: -0.008328223380466016
+golden_section() failed (incorrect minimum)
+	Correct response: 1.618033988749895
+	Student response: 1.6143032695902557
+Score += 0
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+Score += 15
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+02/10/22 11:06
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+Score += 15
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

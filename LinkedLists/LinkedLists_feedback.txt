@@ -1,0 +1,92 @@
+10/05/21 17:41
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+TypeError: Invalid return type 'int'
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+AttributeError while removing 7: 'NoneType' object has no attribute 'next'
+	Previous list:    [7, 32, 16, 3, 70, 78, 1, 20]
+AttributeError while removing 17: 'NoneType' object has no attribute 'next'
+	Previous list:    [17, 44, 43, 25, 99, 64, 4, 9]
+LinkedList.__len__() failed on list [80, 91, 64, 58, 21]
+	Correct response: 5
+	Student response: 6
+LinkedList.__len__() failed on list [99, 60, 68, 72]
+	Correct response: 4
+	Student response: 5
+AttributeError while removing 10: 'NoneType' object has no attribute 'next'
+	Previous list:    [10]
+AttributeError while removing 16: 'NoneType' object has no attribute 'next'
+	Previous list:    [16]
+LinkedList.remove() failed to raise a ValueError (got an AttributeError instead)
+AttributeError: 'NoneType' object has no attribute 'prev'
+
+Problem 5 (8 points):
+NotImplementedError while inserting -1: Problem 5 Incomplete
+	Previous list:    [92, 16, 94, 85, 73, 5, 41, 8, 3]
+NotImplementedError while inserting -2: Problem 5 Incomplete
+	Previous list:    [25, 81, 12, 37, 57, 18, 26, 36, 9]
+NotImplementedError while inserting -2: Problem 5 Incomplete
+	Previous list:    [30, 73, 40, 3, 56, 43]
+NotImplementedError while inserting -3: Problem 5 Incomplete
+	Previous list:    [29, 91, 23, 21, 90, 49, 26]
+LinkedList.insert() failed to raise an IndexError (got a NotImplementedError instead)
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+AttributeError: module 'SamuelGoldrup.LinkedLists.linked_lists' has no attribute 'Deque'
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+we are grading code quality starting this week so make sure to self document code
+Score += 4
+
+Total score: 14/50 = 28.0%
+
+-------------------------------------------------------------------------------
+
+10/07/21 10:02
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+Score += 7
+
+Problem 5 (8 points):
+Score += 8
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Nice!
+
+-------------------------------------------------------------------------------
+
+

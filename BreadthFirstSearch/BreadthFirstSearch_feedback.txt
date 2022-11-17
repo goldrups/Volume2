@@ -1,0 +1,113 @@
+10/29/21 22:21
+
+Problem 1 (5 points):
+AttributeError: 'dict' object has no attribute 'add_node'
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+ValueError: No path from 'A' to 'D'
+
+Problem 5 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Graph.shortest_path() is incomplete
+Score += 0
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+11/02/21 10:03
+
+Problem 1 (5 points):
+AttributeError: 'dict' object has no attribute 'add_node'
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+KeyError: 'lacking a connecting edge'
+
+Problem 5 (10 points):
+NameError: name 'graph' is not defined
+
+Problem 6 (10 points):
+MovieGraph.average_number('Kevin Bacon') failed
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 20/50 = 40.0%
+
+
+Comments:
+	On problem 6 your histogram was correct but you returned the incorrect average number.
+
+-------------------------------------------------------------------------------
+
+11/02/21 18:59
+
+SyntaxError while loading 'breadth_first_search.py': invalid syntax (breadth_first_search.py, line 233)
+
+-------------------------------------------------------------------------------
+
+11/02/21 19:08
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+MovieGraph.average_number('Kevin Bacon') failed
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+11/02/21 19:15
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

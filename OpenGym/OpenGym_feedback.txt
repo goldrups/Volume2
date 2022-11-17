@@ -1,0 +1,55 @@
+03/07/22 19:38
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+incomplete
+Score += 0
+
+Problem 3 (10 points):
+incomplete
+Score += 0
+
+Problem 4 (15 points):
+incomplete
+Score += 0
+
+Problem 5 (10 points):
+incomplete
+Score += 0
+
+Code Quality (5 points):
+make sure you include comments!
+Score += 0
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+03/10/22 10:45
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 4
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

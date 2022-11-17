@@ -1,0 +1,59 @@
+02/14/22 17:43
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+'string= ''' doesn't match but should
+'max=4.2' doesn't match but should
+Score += 4
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (20 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Problem 6 incomplete
+Score += 0
+
+Total score: 19/50 = 38.0%
+
+-------------------------------------------------------------------------------
+
+02/17/22 09:56
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+error: nothing to repeat at position 2
+
+Problem 6 (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

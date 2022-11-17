@@ -1,0 +1,88 @@
+09/20/21 17:18
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+ContentFilter('a') raised a EOFError
+ContentFilter(['a']) raised a EOFError
+ContentFilter(100) raised a EOFError
+Score += 4
+
+Problem 4 (25 points):
+ContentFilter.reverse('_OUT_', mode='z') failed to raise a ValueError (got an AttributeError instead)
+AttributeError: 'list' object has no attribute 'strip'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 19/50 = 38.0%
+
+-------------------------------------------------------------------------------
+
+09/23/21 11:14
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (25 points):
+tabbing is a little off
+
+Correct ContentFilter.__str__() output:
+
+Source file:		__contentfilter_test__.txt
+Total characters:	55
+Alphabetic characters:	28
+Numerical characters:	0
+Whitespace characters:	27
+Number of lines:	4
+
+Student ContentFilter.__str__() output:
+
+Sourcefile               __contentfilter_test__.txt 
+Total characters         55         
+Alphabetic characters    28         
+Numerical characters     0          
+Whitespace characters    27         
+Number of lines          4
+
+Score += 24
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+10/02/21 12:05
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (25 points):
+NameError: name 'strings' is not defined
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+
